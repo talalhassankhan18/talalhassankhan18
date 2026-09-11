@@ -1,7 +1,7 @@
 # Hi, I'm Talal Hassan Khan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Senior+UI%2FUX+Designer;Full+Stack+Product+Engineer;Building+AI-Powered+Digital+Products;React+%7C+Next.js+%7C+Node.js+%7C+Python;Designing+Experiences+That+Users+Love" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Product+Engineer;Building+AI-Powered+Digital+Products;React+%7C+Next.js+%7C+Node.js+%7C+Python;Designing+Experiences+That+Users+Love" />
 </p>
 
 <p align="center">
