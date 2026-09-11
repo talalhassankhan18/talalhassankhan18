@@ -195,15 +195,4 @@ CGPA: 3.83 / 4.00
 
 Always learning. Always building. 🚀
 
-## 📊 GitHub Stats
 
-![Talal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talalhassankhan18&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talalhassankhan18&layout=compact&theme=tokyonight)
-
-
-![](https://komarev.com/ghpvc/?username=talalhassankhan18&color=blue)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Senior+UI%2FUX+Designer;Full+Stack+Product+Engineer;AI-Powered+Product+Builder;React+%7C+Next.js+%7C+Node.js+%7C+Python;Designing+Experiences+That+Users+Love" />
-</p>
