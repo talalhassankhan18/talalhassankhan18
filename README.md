@@ -1,7 +1,7 @@
 # Hi, I'm Talal Hassan Khan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Product+Engineer;Building+AI-Powered+Digital+Products;React+%7C+Next.js+%7C+Node.js+%7C+Python;Designing+Experiences+That+Users+Love" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=750&lines=Full+Stack+Product+Engineer;AI+Integration+%26+Machine+Learning+Enthusiast;Building+Scalable+Digital+Products;React+%7C+Next.js+%7C+Node.js+%7C+.NET+%7C+Python;Transforming+Ideas+Into+Production-Ready+Solutions" />
 </p>
 
 <p align="center">
@@ -20,40 +20,24 @@
 
 ## 🚀 About Me
 
-I'm a **UI/UX Designer and Full Stack Product Engineer** passionate about building user-centered digital products that solve real-world problems.
+I'm a **Full Stack Product Engineer** passionate about building scalable software products, AI-powered applications, and modern digital experiences.
 
-I combine **design thinking, product strategy, and software engineering** to create scalable web applications, SaaS platforms, AI-powered systems, and intuitive user experiences.
+My work spans the entire product lifecycle—from product discovery and system architecture to backend engineering, frontend development, AI integration, deployment, and continuous improvement.
 
 📍 Islamabad, Pakistan
 
 ### What I Do
 
-- 🎨 Design modern web & mobile experiences
-- 🧠 Conduct UX research and usability analysis
-- 📐 Create wireframes, user flows & prototypes
-- 💻 Build full-stack applications
-- 🤖 Integrate AI & Machine Learning solutions
+- 💻 Build scalable full-stack applications
+- 🏗 Design robust system architectures
+- 🤖 Integrate AI, LLMs, and Machine Learning solutions
+- 🔌 Develop APIs and backend services
+- ⚡ Optimize product performance and scalability
 - 🚀 Transform ideas into production-ready products
 
 ---
 
 ## 🛠 Tech Stack
-
-### 🎨 Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-</p>
-
-- Figma
-- Design Systems
-- Wireframing
-- Prototyping
-- User Research
-- Information Architecture
-- Usability Testing
-
----
 
 ### Frontend
 
@@ -89,14 +73,16 @@ I combine **design thinking, product strategy, and software engineering** to cre
 - AI Recommendations
 - LLM Integrations
 - Semantic Search
-- AI Product Features
+- AI Chatbots
+- Agentic AI Workflows
+- Data Processing Pipelines
 
 ---
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ---
@@ -105,20 +91,18 @@ I combine **design thinking, product strategy, and software engineering** to cre
 
 ### ✨ SalonSphere
 
-**Where Beauty Meets Excellence**
-
-AI-Powered Salon Booking & Commerce Platform
+**AI-Powered Salon Booking & Commerce Platform**
 
 **Tech:** Next.js • TypeScript • MongoDB • TensorFlow • TailwindCSS
 
 Features:
 
 - AI Service Recommendations
-- Salon Booking System
-- Multi-Vendor Platform
-- E-Commerce Integration
-- Admin Dashboard
-- Analytics & Reporting
+- Multi-Vendor Architecture
+- Appointment Management
+- E-Commerce Platform
+- Analytics Dashboard
+- Role-Based Access Control
 
 🔗 https://salonsphere.vercel.app/
 
@@ -126,28 +110,26 @@ Features:
 
 ### ⚖️ Lawyers Case Diary
 
-Modern Legal Case Management System
+**AI-Enhanced Legal Case Management System**
 
 **Tech:** MERN Stack
 
 Features:
 
-- Case Management
-- Client Management
+- Case & Client Management
 - Hearing Scheduling
-- AI Case Summaries
 - Semantic Search
+- AI Case Summaries
 - Legal Workflow Automation
+- Real-Time Case Tracking
 
 ---
 
 ### 🌐 ZeroSwift
 
-Founder & Product Lead
+**Founder & Product Lead**
 
-Building modern software solutions and digital products.
-
-**Tagline**
+Building software products, SaaS solutions, and digital transformation services.
 
 > Develop • Manage • Grow • Dominate
 
@@ -161,19 +143,18 @@ COMSATS University Islamabad, Wah Campus
 
 🥈 Silver Medalist
 
-CGPA: 3.83 / 4.00
+CGPA: **3.83 / 4.00**
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced Product Design
-- AI-Powered Applications
-- Design Systems at Scale
-- SaaS Product Development
+- Large Language Models (LLMs)
+- AI Product Engineering
+- Multi-Agent Systems
+- MLOps & AI Deployment
 - React Native
-- Agentic AI Workflows
-
+- Product Architecture at Scale
 
 ---
 
@@ -191,8 +172,6 @@ CGPA: 3.83 / 4.00
 
 ### 💡 Philosophy
 
-> Great products are built when design, technology, and user needs come together.
+> Great products are built when engineering excellence, AI innovation, and user needs come together.
 
 Always learning. Always building. 🚀
-
-
